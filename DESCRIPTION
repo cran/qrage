@@ -1,0 +1,14 @@
+Package: qrage
+Type: Package
+Title: Tools that Create D3 JavaScript Force Directed Graph from R
+Version: 1.0
+Date: 2015-06-21
+Author: Shingo Yamamoto
+Maintainer: Shingo Yamamoto <yamamototto@gmail.com>
+Description: Tools that create D3 JavaScript force directed graph from R. D3 JavaScript was created by Michael Bostock. See http://d3js.org/ and, more specifically for Force Directed Graph https://github.com/mbostock/d3/wiki/Force-Layout.
+License: MIT + file LICENSE
+Imports: htmlwidgets,shiny
+NeedsCompilation: no
+Packaged: 2015-06-22 02:15:52 UTC; si.yamamoto
+Repository: CRAN
+Date/Publication: 2015-06-22 06:50:59

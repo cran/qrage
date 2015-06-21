@@ -1,0 +1,5 @@
+export(qrage)
+export(qrageOutput)
+export(renderQrage)
+import(htmlwidgets)
+import(shiny)

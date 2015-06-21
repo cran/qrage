@@ -1,0 +1,13 @@
+dependencies:
+- name: jquery
+  version: 2.1.4
+  src: htmlwidgets/lib/jquery
+  script: dist/jquery.js
+- name: d3
+  version: 3.5.5
+  src: htmlwidgets/lib/d3
+  script: d3.js
+- name: css
+  version: 2.4.0
+  src: htmlwidgets/lib/css
+  style: style.css
